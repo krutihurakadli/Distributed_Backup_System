@@ -1,0 +1,419 @@
+{"t": 1792777921.788, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792777921.816, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792777921.827, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1792777921.834, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792777921.846, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792778064.877, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792778064.895, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792778110.223, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 3, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1792778110.253, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 3, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1792778110.263, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 1, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1792778110.286, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 1, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1792778110.457, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792778110.465, "mode": "dynamic", "event": "port_up", "dpid": 3, "port": 1, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1792778110.489, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792778110.502, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 4, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1792778110.724, "mode": "dynamic", "event": "port_up", "dpid": 3, "port": 2, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1792778110.736, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 4, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1792816166.845, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0003578234411587043, "B": 0.0}}
+{"t": 1792816166.866, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816182.7, "mode": "static", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816189.385, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816189.396, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816208.102, "mode": "static", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816214.273, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.000278748282307833, "B": 0.0}}
+{"t": 1792816214.279, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816229.933, "mode": "static", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816236.015, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816236.03, "mode": "static", "event": "select", "client": "10.0.0.2", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816236.036, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816236.045, "mode": "static", "event": "app_started", "client": "10.0.0.2", "server": "10.0.0.3"}
+{"t": 1792816264.497, "mode": "static", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816264.567, "mode": "static", "event": "app_finished", "client": "10.0.0.2", "server": "10.0.0.3"}
+{"t": 1792816271.343, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816271.358, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816271.545, "mode": "static", "event": "select", "client": "10.0.0.2", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816271.585, "mode": "static", "event": "app_started", "client": "10.0.0.2", "server": "10.0.0.3"}
+{"t": 1792816300.283, "mode": "static", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816303.612, "mode": "static", "event": "app_finished", "client": "10.0.0.2", "server": "10.0.0.3"}
+{"t": 1792816310.171, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816310.184, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816310.217, "mode": "static", "event": "select", "client": "10.0.0.2", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816310.232, "mode": "static", "event": "app_started", "client": "10.0.0.2", "server": "10.0.0.3"}
+{"t": 1792816340.441, "mode": "static", "event": "app_finished", "client": "10.0.0.2", "server": "10.0.0.3"}
+{"t": 1792816345.526, "mode": "static", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816357.309, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 6.597644676144223, "B": 0.0}}
+{"t": 1792816357.328, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816365.787, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816366.826, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.536531368046635, "B": 0.0}}
+{"t": 1792816366.832, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816369.843, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816371.381, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.626251504446203, "B": 0.0}}
+{"t": 1792816371.473, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816374.63, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816376.684, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.649805722813757, "B": 0.0}}
+{"t": 1792816376.711, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816379.951, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816382.599, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.959379844363011, "B": 0.0}}
+{"t": 1792816382.635, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816395.001, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816398.081, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 8.113242948044295, "B": 0.0}}
+{"t": 1792816398.093, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816404.837, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816407.9, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 7.642397880594452, "B": 0.0}}
+{"t": 1792816407.924, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816411.002, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816414.043, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.302369486804346, "B": 0.0008402483555799191}}
+{"t": 1792816414.107, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816417.172, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816420.191, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.859127256823361, "B": 0.0}}
+{"t": 1792816420.196, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816430.015, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816433.08, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 6.272279470928784, "B": 0.0}}
+{"t": 1792816433.156, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816441.061, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816444.111, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.426718100311401, "B": 0.0}}
+{"t": 1792816444.16, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816455.659, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816470.809, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.5249768523928395, "B": 0.0}}
+{"t": 1792816470.817, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816481.537, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816482.613, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 1.322841111226093, "B": 0.0}}
+{"t": 1792816482.871, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816492.793, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816494.428, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.6274551692787185, "B": 0.0}}
+{"t": 1792816494.464, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816501.321, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816503.518, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.800507528672997, "B": 0.0}}
+{"t": 1792816503.627, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816506.681, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816510.618, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 2.2986997597223673, "B": 0.0}}
+{"t": 1792816510.703, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816513.755, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816516.798, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 6.213648399393073, "B": 0.0}}
+{"t": 1792816516.936, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816523.977, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816527.002, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.34773554481488, "B": 0.0}}
+{"t": 1792816527.011, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816536.997, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816540.196, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.425340506611092, "B": 0.0}}
+{"t": 1792816540.22, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816543.275, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816546.329, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 3.7163550233900686, "B": 0.0}}
+{"t": 1792816546.384, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816553.618, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816556.668, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 2.856967983487375, "B": 0.0}}
+{"t": 1792816556.713, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816566.801, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816581.459, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.268369256835029, "B": 0.0}}
+{"t": 1792816581.469, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816591.747, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816592.84, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.395552086214407, "B": 0.0}}
+{"t": 1792816592.897, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816604.673, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816606.208, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.328995977340663, "B": 0.0}}
+{"t": 1792816606.272, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816609.367, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816611.405, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.278317229027457, "B": 0.0}}
+{"t": 1792816611.454, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816614.504, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816617.137, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.13845823597371, "B": 0.0}}
+{"t": 1792816617.195, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816626.236, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816629.316, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.272239077585775, "B": 0.0}}
+{"t": 1792816629.346, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816632.368, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816635.451, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.763572267752091, "B": 0.0}}
+{"t": 1792816635.52, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816645.257, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816648.308, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.252710140444806, "B": 0.0}}
+{"t": 1792816648.321, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816651.386, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816654.447, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 4.8550360186641655, "B": 0.0}}
+{"t": 1792816654.508, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816663.969, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816667.004, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 5.4071493526372185, "B": 0.0}}
+{"t": 1792816667.051, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816677.248, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816686.332, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.00026354225889300455, "B": 0.0}}
+{"t": 1792816686.343, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816689.271, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816689.279, "mode": "static", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816689.322, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816689.323, "mode": "static", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816689.398, "mode": "static", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816694.046, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816695.229, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816695.259, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816698.326, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816699.87, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.007387181270194336, "B": 0.006804397246746169}}
+{"t": 1792816699.93, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816702.97, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816705.653, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816705.695, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816708.728, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816711.574, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816711.6, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816714.622, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816717.726, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816717.773, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816720.828, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816723.947, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816723.968, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816727.008, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816730.096, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816730.108, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816733.223, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816736.536, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.00587574169614769, "B": 0.0}}
+{"t": 1792816736.572, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816739.592, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816742.683, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816742.719, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816745.761, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816748.805, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816748.841, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816752.004, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816755.065, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816755.127, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816758.162, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816761.224, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816761.269, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816764.307, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816767.368, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816767.441, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816770.525, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816773.562, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816773.596, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816776.707, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816779.996, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816780.004, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816786.071, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816786.082, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816788.863, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816788.865, "mode": "static", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816788.872, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816788.878, "mode": "static", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816788.887, "mode": "static", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816793.92, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816794.988, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816795.005, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816798.041, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816799.573, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0005488730750284242, "B": 0.0}}
+{"t": 1792816799.622, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816802.676, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816804.794, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816804.83, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816807.857, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816810.38, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816810.4, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816813.435, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816816.463, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816816.495, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816819.545, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816822.677, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816822.691, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816825.777, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816828.847, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816828.865, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816831.903, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816834.953, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816834.986, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816838.027, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816841.04, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816841.063, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816844.081, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816847.127, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816847.164, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816850.188, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816853.246, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816853.294, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816856.346, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816859.38, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816859.4, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816862.417, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816865.451, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816865.477, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816868.582, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816871.627, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816871.642, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816874.708, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816878.376, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816878.395, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816884.333, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816884.341, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816887.128, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816887.141, "mode": "static", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816887.155, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816887.159, "mode": "static", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816887.161, "mode": "static", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816892.291, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816893.404, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.00435562540397733, "B": 0.0}}
+{"t": 1792816893.45, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816896.734, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816898.287, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0002941360461618995, "B": 0.0}}
+{"t": 1792816898.364, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816901.656, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816903.745, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0060974805867274, "B": 0.0}}
+{"t": 1792816903.9, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816906.977, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816909.535, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816909.548, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816912.62, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816915.805, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816915.819, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816919.309, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816922.396, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0002584433111554763, "B": 0.0}}
+{"t": 1792816922.404, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816925.419, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816928.673, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816928.715, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816931.753, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816935.011, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816935.045, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816938.09, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816941.175, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816941.312, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816944.48, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816947.557, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816947.61, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816950.666, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816953.862, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816953.886, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816956.927, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816960.176, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816960.206, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816963.296, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816966.362, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816966.38, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816969.439, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816972.477, "mode": "static", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1792816972.492, "mode": "static", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816975.521, "mode": "static", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1792816978.912, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1792816978.968, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816984.04, "mode": "static", "event": "port_up", "dpid": 1, "port": 3, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1792816984.08, "mode": "static", "event": "port_up", "dpid": 2, "port": 1, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1792816984.111, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816984.114, "mode": "static", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816984.12, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816984.129, "mode": "static", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1792816984.591, "mode": "static", "event": "port_up", "dpid": 1, "port": 4, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1792816984.594, "mode": "static", "event": "port_up", "dpid": 3, "port": 1, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1792816985.147, "mode": "static", "event": "port_up", "dpid": 3, "port": 2, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1792816985.151, "mode": "static", "event": "port_up", "dpid": 4, "port": 4, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1793460713.351, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793460942.654, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.4", "path": "B", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793460942.684, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.4"}
+{"t": 1793460952.203, "mode": "dynamic", "event": "congestion", "path": "B", "util": {"A": 0.0, "B": 8.126196817569118}}
+{"t": 1793460952.204, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.4", "old": "B", "new": "A", "why": "congestion"}
+{"t": 1793460960.23, "mode": "dynamic", "event": "congestion", "path": "A", "util": {"A": 9.035503428340721, "B": 0.0}}
+{"t": 1793460960.23, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.4", "old": "A", "new": "B", "why": "congestion"}
+{"t": 1793460970.28, "mode": "dynamic", "event": "congestion", "path": "B", "util": {"A": 0.0, "B": 9.21595578582523}}
+{"t": 1793460970.282, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.4", "old": "B", "new": "A", "why": "congestion"}
+{"t": 1793460975.898, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.4"}
+{"t": 1793461059.937, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461059.939, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461066.566, "mode": "dynamic", "event": "congestion", "path": "A", "util": {"A": 8.179169358331425, "B": 0.0}}
+{"t": 1793461066.566, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.3", "old": "A", "new": "B", "why": "congestion"}
+{"t": 1793461072.338, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461072.345, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461072.352, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461072.355, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461072.364, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461125.25, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461175.016, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461175.033, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461175.037, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461185.68, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 3, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1793461185.691, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 1, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1793461185.707, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461185.723, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461185.767, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461185.792, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461185.884, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 4, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1793461185.895, "mode": "dynamic", "event": "port_up", "dpid": 3, "port": 1, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1793461186.136, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 4, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1793461186.153, "mode": "dynamic", "event": "port_up", "dpid": 3, "port": 2, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1793461419.229, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.001717591083157855, "B": 0.0033552942089595307}}
+{"t": 1793461419.233, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461442.286, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461447.577, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0008795222112278264, "B": 0.0011593701875275894}}
+{"t": 1793461447.581, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461470.581, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461475.825, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461475.831, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461480.844, "mode": "dynamic", "event": "congestion", "path": "A", "util": {"A": 9.272281701542012, "B": 0.0}}
+{"t": 1793461480.847, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.3", "old": "A", "new": "B", "why": "congestion"}
+{"t": 1793461494.944, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461500.185, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461500.197, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461500.215, "mode": "dynamic", "event": "select", "client": "10.0.0.2", "server": "10.0.0.4", "path": "B", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461500.222, "mode": "dynamic", "event": "app_started", "client": "10.0.0.2", "server": "10.0.0.4"}
+{"t": 1793461511.479, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461511.613, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.2", "server": "10.0.0.4"}
+{"t": 1793461516.9, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461516.911, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461516.989, "mode": "dynamic", "event": "select", "client": "10.0.0.2", "server": "10.0.0.4", "path": "B", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461517.003, "mode": "dynamic", "event": "app_started", "client": "10.0.0.2", "server": "10.0.0.4"}
+{"t": 1793461527.859, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461527.98, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.2", "server": "10.0.0.4"}
+{"t": 1793461533.26, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461533.264, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461533.374, "mode": "dynamic", "event": "select", "client": "10.0.0.2", "server": "10.0.0.4", "path": "B", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461533.381, "mode": "dynamic", "event": "app_started", "client": "10.0.0.2", "server": "10.0.0.4"}
+{"t": 1793461545.558, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461545.571, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.2", "server": "10.0.0.4"}
+{"t": 1793461555.924, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 9.408900248738918}}
+{"t": 1793461555.927, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461568.698, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461579.046, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 4.54616276477749}}
+{"t": 1793461579.055, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461593.155, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461603.478, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 4.1617082470782885}}
+{"t": 1793461603.483, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461614.483, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461619.798, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461619.822, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461622.664, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461622.682, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461622.686, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.3", "old": "A", "new": "B", "why": "link-event"}
+{"t": 1793461622.705, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461622.711, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461622.719, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461633.282, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461633.327, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461633.344, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461633.373, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461638.794, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "A", "util": {"A": 0.0, "B": 0.0}}
+{"t": 1793461638.797, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461641.698, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461641.712, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461641.714, "mode": "dynamic", "event": "reroute", "client": "10.0.0.1", "server": "10.0.0.3", "old": "A", "new": "B", "why": "link-event"}
+{"t": 1793461641.721, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461641.73, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461666.935, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461666.976, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461667.001, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461667.012, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461672.359, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.3", "path": "B", "util": {"A": 0.0008765245624219517, "B": 0.0}}
+{"t": 1793461672.373, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461675.283, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461675.3, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461675.319, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461675.331, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461675.351, "mode": "dynamic", "event": "port_down", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461696.004, "mode": "dynamic", "event": "app_failed", "client": "10.0.0.1", "server": "10.0.0.3"}
+{"t": 1793461697.01, "mode": "dynamic", "event": "select", "client": "10.0.0.1", "server": "10.0.0.4", "path": "B", "util": {"A": 0.0, "B": 1.6417591563232792}}
+{"t": 1793461697.02, "mode": "dynamic", "event": "app_started", "client": "10.0.0.1", "server": "10.0.0.4"}
+{"t": 1793461725.943, "mode": "dynamic", "event": "app_finished", "client": "10.0.0.1", "server": "10.0.0.4"}
+{"t": 1793461726.002, "mode": "dynamic", "event": "port_down", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461726.022, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["B"]}
+{"t": 1793461726.027, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461730.342, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 3, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1793461730.357, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 3, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461730.364, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 2, "link": "A2", "live_paths": ["A", "B"]}
+{"t": 1793461730.392, "mode": "dynamic", "event": "port_up", "dpid": 2, "port": 1, "link": "A1", "live_paths": ["A", "B"]}
+{"t": 1793461730.467, "mode": "dynamic", "event": "port_up", "dpid": 1, "port": 4, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1793461730.474, "mode": "dynamic", "event": "port_up", "dpid": 3, "port": 1, "link": "B1", "live_paths": ["A", "B"]}
+{"t": 1793461730.645, "mode": "dynamic", "event": "port_up", "dpid": 4, "port": 4, "link": "B2", "live_paths": ["A", "B"]}
+{"t": 1793461730.656, "mode": "dynamic", "event": "port_up", "dpid": 3, "port": 2, "link": "B2", "live_paths": ["A", "B"]}

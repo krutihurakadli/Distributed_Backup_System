@@ -1,0 +1,6 @@
+# Controller (use a Python 3.9 venv; newer Pythons break old Ryu/eventlet)
+ryu
+eventlet==0.30.2
+# Plots
+matplotlib
+pandas
